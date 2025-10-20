@@ -5,7 +5,7 @@
  ### Main skills: 
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
  ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
- ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg)&nbsp;
+ ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)&nbsp;
 
 <!--
 **VintageList/VintageList** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
